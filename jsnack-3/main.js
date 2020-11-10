@@ -9,7 +9,8 @@ Calcolare perimetro e area.
 var triangolo = {
   'base': 10,
   'altezza': 8
-}
+};
+
 document.write('Base: ' + triangolo.base + '<br>Altezza: ' + triangolo.altezza);
 
 var area = (triangolo.base * triangolo.altezza) / 2;

@@ -30,4 +30,4 @@ for(var i=0; i<bici.length; i++){
   console.log(biciLeggera);
 }
 
-document.write('nome bici: '+biciLeggera.nome+'<br>peso: '+biciLeggera.peso);
+document.write('nome bici: ' + biciLeggera.nome + '<br>peso: ' + biciLeggera.peso);
