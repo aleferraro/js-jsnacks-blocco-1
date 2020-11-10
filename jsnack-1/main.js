@@ -10,7 +10,7 @@ Peso = 10
 var palla = {
   'nome': 'palla',
   'peso': 10
-}
+};
 
 document.getElementById('snack1a').innerHTML = 'nome: '+palla.nome+'<br>peso: '+palla.peso;
 
